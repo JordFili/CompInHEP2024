@@ -1,8 +1,8 @@
 # Makefile for generating PDF from LaTeX source
 
-SOURCE = main.tex
+SOURCE = Feynmann.tex
 
-OUTPUT = main.pdf
+OUTPUT = Feynmann.pdf
 
 LATEX = pdflatex
 
